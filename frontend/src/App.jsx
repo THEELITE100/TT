@@ -74,7 +74,7 @@ function App() {
         <header className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4">
           <div>
             <h1 className="text-3xl md:text-4xl font-semibold tracking-tight text-white">Focus</h1>
-            <p className="text-text-dim text-sm md:text-base mt-1">Manage your workflow beautifully</p>
+            <p className="text-text-dim text-sm md:text-base mt-1">Manage your workflow</p>
           </div>
           <button 
             onClick={() => setIsModalOpen(true)}
