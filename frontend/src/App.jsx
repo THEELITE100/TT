@@ -5,7 +5,7 @@ import TaskForm from './components/TaskForm';
 import TaskList from './components/TaskList';
 import TaskStats from './components/TaskStats';
 
-const API_URL = 'http://localhost:5000/api/tasks';
+const API_URL = 'https://tt-8y4c.onrender.com/api/tasks';
 
 function App() {
   const [tasks, setTasks] = useState([]);
