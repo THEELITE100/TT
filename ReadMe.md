@@ -38,6 +38,7 @@ Designed with a modern dark mode aesthetic (inspired by Linear and Tesla interfa
 task-tracker/
 ├── backend/
 │   ├── .env                 # Environment variables (Database URI, Port)
+│   ├── .gitignore
 │   ├── package.json         # Backend dependencies & scripts
 │   ├── server.js            # Entry point for Express server
 │   ├── models/
