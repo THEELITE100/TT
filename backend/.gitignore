@@ -1,4 +1,16 @@
 # Environment files
 .env
-#logs
-node_modules
+.env.local
+.env.*.local
+
+# Dependency folders
+node_modules/
+
+# Logs and Caches
+*.log
+logs/
+npm-debug.log*
+
+# Build and distribution folders
+dist/
+build/
