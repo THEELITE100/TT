@@ -2,7 +2,7 @@
 
 A full stack Task Management Dashboard built with the **MERN** stack (MongoDB, Express, React, Node.js). 
 
-Designed with a modern dark mode aesthetic (inspired by Linear and Tesla interfaces), and a fully responsive grid layout.
+Designed with a modern dark mode aesthetic, and a fully responsive grid layout.
 
 ---
 
